@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241066584666",
+    "firebase_url": "https://popotoanpraktikum.firebaseio.com",
+    "project_id": "popotoanpraktikum",
+    "storage_bucket": "popotoanpraktikum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241066584666:android:37f41f4ea3bd4cba",
+        "android_client_info": {
+          "package_name": "com.adib.adibfakhrimuhtadi_1202154192_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241066584666-dpdnet6tshkooodpijg7flul80cam6n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNZWnrrVWM8SqP7b9gLvdmkRpsxrVFvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
